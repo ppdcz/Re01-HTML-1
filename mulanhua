@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>康文昌的在线HTML 教学小工具</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+    background-color:#FFB6C;
+    text-align:center;
+    padding:40px;
+    ">
+      <img src="https://i0.imgs.ovh/2024/03/16/e2SPe.jpeg"  alt="微信图片" width="80px" height="80px"
+    </div>
+    <div style="
+    background-color:#F8F8FF;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height:1.7;
+    ">
+      <p>木兰花·令拟古决绝词</p>
+      <p>人生若只如初见，何事秋风悲画扇。</p>
+      <p>等闲变却故人心，却道故心人易变。</p>
+      <p>骊山语罢清宵半，泪雨霖铃终不怨。</p>
+      <p>何如薄幸锦衣郎，比翼连枝当日愿。</p>
+      </div>
+    <div style="
+    background-color:#FFB6C;
+    text-align:center;
+    padding:40px;
+    font-size:12px;
+    ">
+      <p>我的网站</p>
+      <a href="https://www.gushicimingju.com/gushi/ci/998.html">友情提供诗句链接</a>
+    </div>
+  </body>
+</html>
